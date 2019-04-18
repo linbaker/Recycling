@@ -14,15 +14,13 @@ _This is a webpage that will help a user to properly recycle in the city of Port
 
 * _Open index.html in your browser_
 
-* __
-
-* __
-
-* __
+* _Learn how to recycle!_
 
 ## Known Bugs
 
-_No known bugs_
+_The quiz will save the previously selected option and continue to use it if the user clicks "next" without entering another value._
+
+_Margins disappear at the end of the page of guide.html_
 
 ## Specs
 
@@ -31,10 +29,11 @@ _No known bugs_
 |List information on recycling|Load website|Lists basic recycling information|
 |Add click functionality to image|user clicks on an image|Recycling info for that image displayed|
 |Add hover functionality to image |user hovers mouse on an image|Recycling info for that image displayed|
-|After recycling, add trash and compost|user clicks on trash or compost menu|Menu expands to explain trash or compost options|
+|After recycling, add trash|user clicks on trash menu|Menu expands to explain trash options|
 |Add quiz - users get 7 questions|User clicks quiz|User is shown images and asked to choose whether it's recycling or trash|
 |Add randomizer for quiz - questions rotate|User clicks quiz|User is shown a random selection of quiz questions instead of the same ten.|
-
+|User inputs to street address to get garbage pickup days|8130 n willamette blvd|Opens map that shows their pickup day.|
+|User can view map of dropoff locations for special recycling circumstances|open map|list of drop off locations displayed on maps| 
 
 ## Support and contact details
 
